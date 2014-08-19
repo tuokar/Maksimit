@@ -1,4 +1,4 @@
 1RM-Calculator
 ==============
 
-First native 1RM (one repetition maximum) calculator for SailfishOS.
+This is a simple 1RM (one repetition maximum) calculator for all the weight training enthusiastic Jolla users out there.
