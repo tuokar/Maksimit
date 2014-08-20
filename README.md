@@ -1,4 +1,4 @@
-1RM-Calculator
+1RM Calculator
 ==============
 
 This is a simple 1RM calculator for all the weight training enthusiastic Jolla users out there. Calculator uses 7 different prediction equations for estimating 1RM performance from repetitions to fatigue.
