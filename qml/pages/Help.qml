@@ -3,7 +3,7 @@ import Sailfish.Silica 1.0
 
 
 Page {
-    id: info
+    id: help
 
     // To enable PullDownMenu, place our content in a SilicaFlickable
     SilicaFlickable {
