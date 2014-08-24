@@ -1,14 +1,14 @@
 1RM Calculator
 ==============
 
-This is a simple 1RM calculator for all the weight training enthusiastic Jolla users out there. Calculator uses 7 different prediction equations for estimating 1RM performance from repetitions to fatigue.
+This is a simple 1RM calculator for all the weight training enthusiastic Jolla users out there. Calculator uses 7 different prediction equations for estimating your 1RM performance from repetitions to fatigue.
 
-1RM stands for 'one repetition maximum' and in weight training it is the maximum amount of weight one can lift in a single repetition for a given exercise.
+1RM stands for "One Repetition Maximum" and in weight training it is the maximum amount of weight one can lift in a single repetition for a given exercise.
 
 Instructions to use this calculator:
 ------------------------------------
 
-Before you can calculate your estimated 1RM you have to lift a set with a weight you can lift up fully to a maximum of 10 repetitions. Then enter the amount of weight lifted and the number of reps completed and hit 'Calculate my 1RM' to get your estimated ONE REPETITION MAXIMUM!
+Before you can calculate your estimated 1RM you have to lift a set with a weight you can lift up fully to a maximum of 10 repetitions. Then select the amount of weight lifted and the number of reps completed and hit 'Calculate my 1RM' to get your estimated ONE REPETITION MAXIMUM!
 
 Safety tips:
 ------------
@@ -24,6 +24,15 @@ Workout safely and regularly, have fun and good luck on attempting those 1RMs! :
 Changelog
 =========
 
+Sat Aug 23 2014 | Version 0.2.0-1:
+- Redesigned UI (TextFields are now replaced by Sliders)
+- Added new unit: pound-mass (lb).
+- Few minor fixes and changes.
+
+Fri Aug 22 2014 | Version 0.1.1-1:
+- Fixes issue which allowed user to calculate 1RM with smaller and larger numbers than intended.
+- Some minor changes.
+
 Version 0.1.0-1 | Wed Aug 20 2014
 - Initial release!
 
@@ -31,6 +40,5 @@ Version 0.1.0-1 | Wed Aug 20 2014
 Future plans
 ============
 
-- An option to choose between units (kilograms/pounds)
 - Percentage view
 - Better cover page
