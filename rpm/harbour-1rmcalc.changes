@@ -1,4 +1,17 @@
+*  2014 Tuomas Kärki <tuomas.karki@hotmail.com> 0.2.1-1
+- Added warning buzz when user tries to calculate 1RM with slidervalues of 0.
+-
+
+* Sat Aug 23 2014 Tuomas Kärki <tuomas.karki@hotmail.com> 0.2.0-1
+- Redesigned UI (TextFields are now replaced by Sliders)
+- Added new unit: pound-mass (lb).
+- Few minor fixes and changes.
+
+* Fri Aug 22 2014 Tuomas Kärki <tuomas.karki@hotmail.com> 0.1.1-1
+- Fixed issue which allowed user to calculate 1RM with smaller and larger numbers than intended.
+- Some minor changes.
+
 * Wed Aug 20 2014 Tuomas Kärki <tuomas.karki@hotmail.com> 0.1.0-1
-Initial release!
+- Initial release!
 
 
