@@ -33,8 +33,8 @@ Page {
                 horizontalAlignment: Text.AlignJustify
                 font.pointSize: 18
                 color: "white"
-                text: "Before you can calculate your estimated 1RM you have to lift a set with a weight you can lift up fully to a maximum of 10 repetitions. Then enter the amount of weight lifted and the number of reps completed and hit 'Calculate my 1RM'. Calculator uses 7 different prediction equations for estimating 1RM performance from repetitions to fatigue.<p><p>
-                Remember that the results are not 100 % accurate and the degree of accuracy can vary between different weight training exercises as well as the weight training experience and muscular composition of the trainee."
+                text: "Before you can calculate your estimated 1RM you have to lift a set with a weight you can lift up fully to a maximum of 10 repetitions. Then select the amount of weight lifted and the number of reps completed and hit 'Calculate my 1RM'.<p><p>
+                Calculator uses 7 different prediction equations for estimating your 1RM performance from repetitions to fatigue. Remember that the results are not 100 % accurate and the degree of accuracy can vary between different weight training exercises as well as the weight training experience and muscular composition of the trainee."
                 wrapMode: TextEdit.WordWrap
             }
 
