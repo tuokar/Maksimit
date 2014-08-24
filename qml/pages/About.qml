@@ -45,8 +45,8 @@ Page {
                 horizontalAlignment: Text.AlignHCenter
                 font.pointSize: 18
                 color: "white"
-                text: "This is a simple 1RM (one repetition maximum) calculator for all the weight training enthusiastic Jolla users out there.<p><p>
-                Version 0.1.0-1<p> Created by Tuomas Kärki<p>"
+                text: "This is a simple 1RM (One Repetition Maximum) calculator for all the weight training enthusiastic Jolla users out there.<p><p>
+                Version 0.2.0-1<p> Created by Tuomas Kärki<p>"
                 wrapMode: TextEdit.WordWrap
             }
         }
