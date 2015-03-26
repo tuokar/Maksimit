@@ -1,7 +1,7 @@
 1RM Calculator
 ==============
 
-This is a simple 1RM calculator for all the weight training enthusiastic Jolla users out there. Calculator uses 7 different prediction equations for estimating your 1RM performance from repetitions to fatigue.
+This is a simple 1RM calculator for all the weight training enthusiastic SailfishOS users out there. Calculator uses 7 different prediction equations for estimating your 1RM performance from repetitions to fatigue.
 
 1RM stands for "One Repetition Maximum" and in weight training it is the maximum amount of weight one can lift in a single repetition for a given exercise.
 
@@ -24,6 +24,19 @@ Workout safely and regularly, have fun and good luck on attempting those 1RMs! :
 Changelog
 =========
 
+Thu Mar 26 2015 | Version 0.3.2-1:
+- Refined percentages tables.
+- Few changes to texts and formatting.
+
+Mon Sep 22 2014 | Version 0.3.0-1:
+- Added percentages tables.
+- Minor changes.
+
+Sun Sep 7 2014 | Version 0.2.5-1:
+- Added increase/decrease weight buttons for smoother weight selection.
+- Increased weight slider's maximum value to 300 kg / 660 lb.
+- Few minor improvements.
+
 Sat Aug 23 2014 | Version 0.2.0-1:
 - Redesigned UI (TextFields are now replaced by Sliders)
 - Added new unit: pound-mass (lb).
@@ -40,5 +53,4 @@ Version 0.1.0-1 | Wed Aug 20 2014
 Future plans
 ============
 
-- Percentage view
-- Better cover page
+- Useful cover page
