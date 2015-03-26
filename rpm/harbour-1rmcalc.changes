@@ -1,5 +1,18 @@
+* Thu Mar 26 2015 Tuomas Kärki <tuomas.karki@hotmail.com> 0.3.2-1
+- Refined percentages tables.
+- Few changes to texts and formatting.
+
+* Mon Sep 22 2014 Tuomas Kärki <tuomas.karki@hotmail.com> 0.3.0-1
+- Added percentages tables.
+- Minor changes.
+
+* Sun Sep 7 2014 Tuomas Kärki <tuomas.karki@hotmail.com> 0.2.5-1
+- Added increase/decrease weight buttons for smoother weight selection.
+- Increased weight slider's maximum value to 300 kg / 660 lb.
+- Few minor improvements.
+
 * Sat Aug 23 2014 Tuomas Kärki <tuomas.karki@hotmail.com> 0.2.0-1
-- Redesigned UI (TextFields are now replaced by Sliders)
+- Redesigned UI (TextFields are now replaced by Sliders).
 - Added new unit: pound-mass (lb).
 - Few minor fixes and changes.
 
