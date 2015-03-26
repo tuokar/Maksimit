@@ -2,12 +2,26 @@ import QtQuick 2.0
 import Sailfish.Silica 1.0
 
 CoverBackground {
-    CoverPlaceholder {
-        y: 50
-        text: "<p>1RM Calculator"
-        icon.source: "../images/harbour-1rmcalc.png"
-        icon.width: 130
-        icon.height: 130
+
+    Image {
+        anchors.top: parent.top
+        anchors.topMargin: 20
+        source: "../images/cover-background.png"
+        opacity: 0.1
+    }
+
+    Text {
+        width: parent.width - 2*Theme.paddingMedium
+        x: Theme.paddingMedium
+        horizontalAlignment: Text.AlignHCenter
+        font.pointSize: 20
+        color: Theme.primaryColor
+        text: "1RM Calculator\nfor SailfishOS"
+        wrapMode: TextEdit.WordWrap
+        anchors {
+            bottom: parent.bottom
+            bottomMargin: 20
+        }
     }
 }
 
