@@ -1,14 +1,16 @@
-1RM Calculator
-==============
+Maksimit
+========
 
-This is a simple 1RM calculator for all the weight training enthusiastic SailfishOS users out there. Calculator uses 7 different prediction equations for estimating your 1RM performance from repetitions to fatigue.
+A perfect app for planning your gym workouts. As a native 1RM and rep max calculator for Sailfish OS Maksimit is a must have app for all the weight training enthusiastic Sailfish OS users out there.
 
-1RM stands for "One Repetition Maximum" and in weight training it is the maximum amount of weight one can lift in a single repetition for a given exercise.
+Calculator uses 7 different prediction equations for estimating your 1RM and rep max performance from repetitions to fatigue. Remember that the results are not 100 % accurate and the degree of accuracy can vary between different weight training exercises as well as the weight training experience and muscular composition of the trainee.
 
 Instructions to use this calculator:
 ------------------------------------
 
-Before you can calculate your estimated 1RM you have to lift a set with a weight you can lift up fully to a maximum of 10 repetitions. Then select the amount of weight lifted and the number of reps completed and hit 'Calculate my 1RM' to get your estimated ONE REPETITION MAXIMUM!
+Before you can calculate your estimated 1RM you have to lift a set with a weight you can lift up fully to a maximum of 12 repetitions. Then select the amount of weight lifted and the number of reps completed and hit the calculate button. On the results page swipe left to view percentages table.
+
+You can also calculate your maximum repetitions when you know your 1RM. On the main calculator page you find a rep max calculator from the pull-down menu. Select your 1RM and desired number of reps and hit the calculate button.
 
 Safety tips:
 ------------
@@ -23,6 +25,14 @@ Workout safely and regularly, have fun and good luck on attempting those 1RMs! :
 
 Changelog
 =========
+
+Fri Mar 18 2016 | Version 0.5.0-1:
+- 2-12 rep max calculator included (can be accessed from the pull-down menu).
+- Due to this inclusion app had to be renamed, from this version on it's known as Maksimit (eng. maximums, maxima).
+- Settings page included: unit change, increment adjustment and database reset can be done here.
+- App remembers your last used values.
+- Rep range increased to 12.
+- Changes to texts.
 
 Thu Mar 26 2015 | Version 0.3.2-1:
 - Refined percentages tables.
