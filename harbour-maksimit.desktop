@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 X-Nemo-Application-Type=silica-qt5
-Icon=harbour-1rmcalc
-Exec=harbour-1rmcalc
-Name=1RM Calculator
+Icon=harbour-maksimit
+Exec=harbour-maksimit
+Name=Maksimit
 
