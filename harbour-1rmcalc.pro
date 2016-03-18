@@ -10,12 +10,12 @@
 #   - translation filenames have to be changed
 
 # The name of your application
-TARGET = harbour-maksimit
+TARGET = harbour-1rmcalc
 
 CONFIG += sailfishapp
 
 SOURCES += \
-    src/harbour-maksimit.cpp
+    src/harbour-1rmcalc.cpp
 
 OTHER_FILES += \
     qml/cover/CoverPage.qml \
@@ -25,14 +25,14 @@ OTHER_FILES += \
     qml/pages/MainPage.qml \
     qml/Preferences.js \
     qml/js/Preferences.js \
-    qml/harbour-maksimit.qml \
-    harbour-maksimit.desktop \
-    rpm/harbour-maksimit.yaml \
-    rpm/harbour-maksimit.spec \
-    rpm/harbour-maksimit.changes \
     qml/pages/SettingsPage.qml \
     qml/pages/Percentages1RM.qml \
     qml/pages/PercentagesRepMax.qml \
     qml/pages/CalcPage1RM.qml \
-    qml/pages/CalcPageRepMax.qml
+    qml/pages/CalcPageRepMax.qml \
+    qml/harbour-1rmcalc.qml \
+    harbour-1rmcalc.desktop \
+    rpm/harbour-1rmcalc.yaml \
+    rpm/harbour-1rmcalc.changes \
+    rpm/harbour-1rmcalc.spec
 
