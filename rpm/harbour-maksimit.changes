@@ -1,3 +1,11 @@
+* Fri Mar 18 2016 Tuomas Kärki <tuomas.karki@hotmail.com> 0.5.0-1
+- 2-12 rep max calculator included (can be accessed from the pull-down menu).
+- Due to this inclusion app had to be renamed, from this version on it's known as Maksimit (eng. maximums, maxima).
+- Settings page included: unit change, increment adjustment and database reset can be done here.
+- App remembers your last used values.
+- Rep range increased to 12.
+- Changes to texts.
+
 * Thu Mar 26 2015 Tuomas Kärki <tuomas.karki@hotmail.com> 0.3.2-1
 - Refined percentages tables.
 - Few changes to texts and formatting.
