@@ -15,7 +15,7 @@ Page {
             spacing: Theme.paddingLarge
 
             PageHeader {
-                title: "About 1RM Calculator"
+                title: "About " + appName
             }
 
             Image {
@@ -29,12 +29,14 @@ Page {
                 height: 30
             }
 
-            Label {
-                x: Theme.paddingMedium
-                anchors.horizontalCenter: parent.horizontalCenter
-                text: "1RM Calculator for SailfishOS"
-                color: Theme.highlightColor
+            Text {
+                width: parent.width - 2*Theme.paddingLarge
+                x: Theme.paddingLarge
+                horizontalAlignment: Text.AlignHCenter
                 font.pixelSize: Theme.fontSizeLarge
+                color: Theme.highlightColor
+                text: "Rep max calculator<p>for Sailfish OS"
+                wrapMode: TextEdit.WordWrap
             }
 
             Text {
@@ -43,7 +45,7 @@ Page {
                 horizontalAlignment: Text.AlignHCenter
                 font.pointSize: 18
                 color: Theme.primaryColor
-                text: "<p>This is a simple 1RM (One Repetition Maximum) calculator for all the weight training enthusiastic SailfishOS users out there.<p>"
+                text: "<p>" + appName + " is a simple rep max calculator for all the weight training enthusiastic Sailfish OS users out there.<p>"
                 wrapMode: TextEdit.WordWrap
             }
 
@@ -53,8 +55,7 @@ Page {
                 horizontalAlignment: Text.AlignHCenter
                 font.pointSize: 20
                 color: Theme.highlightColor
-                text: "Version 0.3.2-1<p>
-                Created by Tuomas Kärki"
+                text: "Version " + appVersion + "<p>Developed by Tuomas Kärki"
                 wrapMode: TextEdit.WordWrap
             }
         }
